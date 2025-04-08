@@ -52,7 +52,6 @@
 [*] [b]deck:[/b] Temporarily drop mura package due to framerate pacing issue introduced by it's application ([url=https://github.com/ublue-os/bazzite/commit/78c10a2ab9a7ede3833ccc42da2201dbc2b8b885]78c10a2[/url])
 [*] [b]deck:[/b] Use bootstrap copy of Steam when starting Steam for the first time on the desktop ([url=https://github.com/ublue-os/bazzite/commit/0680e56083475e38d51b60e93c4f1296f89ffd68]0680e56[/url])
 [*] Disable pipewire camera handling temporarily ([url=https://github.com/ublue-os/bazzite/commit/8c1356c322463fd27cc7c3966164f23aa08cf581]8c1356c[/url])
-[*] Disable Waydroid updater in topgrade ([url=https://github.com/ublue-os/bazzite/commit/ee163e5737e23f174d54a837fcb2787b98a15a0b]ee163e5[/url])
 [*] Drop no longer needed OBS_USE_EGL environment variable ([url=https://github.com/ublue-os/bazzite/commit/d658a7a7c4eb4185e6afbba0afbfff04863371e0]d658a7a[/url])
 [*] [b]just:[/b] add libvirt package to setup-virtualization ([url=https://github.com/ublue-os/bazzite/issues/1549]#1549[/url]) ([url=https://github.com/ublue-os/bazzite/commit/1cb85551d509213614ce21c8af515eb1249d0f03]1cb8555[/url])
 [*] [b]just:[/b] fix syntax for benchmark ujust ([url=https://github.com/ublue-os/bazzite/issues/1451]#1451[/url]) ([url=https://github.com/ublue-os/bazzite/commit/ecfc56d1fa6b89aa5eb9bbcbe0b8ea2ae7dfab38]ecfc56d[/url])
